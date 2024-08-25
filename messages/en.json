@@ -1,0 +1,16 @@
+{
+  "Layout": {
+    "companyName": "Company Name",
+    "home": "Home",
+    "product": "Product",
+    "introduction": "Introduction",
+    "contact": "Contact",
+    "copyright": "© {year} Company Name. All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy"
+  },
+  "Home": {
+    "title": "Welcome to Our Company",
+    "content": "This is the home page content."
+  }
+}

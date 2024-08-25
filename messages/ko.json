@@ -1,0 +1,16 @@
+{
+  "Layout": {
+    "companyName": "회사명",
+    "home": "홈",
+    "product": "제품",
+    "introduction": "소개",
+    "contact": "연락처",
+    "copyright": "© {year} 회사명. 모든 권리 보유.",
+    "terms": "이용약관",
+    "privacy": "개인정보처리방침"
+  },
+  "Home": {
+    "title": "우리 회사에 오신 것을 환영합니다",
+    "content": "이것은 홈페이지 내용입니다."
+  }
+}
